@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+list_title: Beiträge
 ---
 
 ![Annemarie Mauritz](/assets/annemarie_mauritz.png)
@@ -10,7 +11,7 @@ layout: home
 Mein Name ist Annemarie Mauritz. Ich bin eine pädagogisch
 ausgebildete Tagesmutter.
 
-Mit viel Herz und riesiger Freude am Job betreue ich Kinder im Alter von 0-4 Jahren in einer kleinen Gruppe von max. 4 Kindern.
+Mit viel Herz und riesiger Freude am Job betreue ich Kinder **im Alter von 0-4 Jahren** in einer kleinen Gruppe von max. 4 Kindern.
 
 Ich biete:
 * Liebevolle, kompetente Kinderbetreuung
@@ -23,6 +24,6 @@ Ich biete:
 Meine Betreuungszeiten sind:\
 Di - Fr von 7-15h und nach Vereinbarung
 
-Tagesmutter Annemarie Mauritz | T 0664 / 99 11 567\
-Veilchengasse 22, 3423 St. Andrä-Wördern
+Tagesmutter Annemarie Mauritz | **T 0664 / 99 11 567**\
+Veilchengasse 22, 3423 **St. Andrä-Wördern**
 
