@@ -7,7 +7,7 @@ layout: home
 list_title: Beiträge
 ---
 
-![Annemarie Mauritz](/assets/annemarie_mauritz.png)
+![Annemarie Mauritz](/assets/annemarie_mauritz.jpg)
 
 Mein Name ist Annemarie Mauritz. Ich bin eine pädagogisch
 ausgebildete Tagesmutter.
