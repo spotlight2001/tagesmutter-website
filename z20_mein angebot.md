@@ -1,9 +1,16 @@
 ---
 layout: page
-title: Kreatives Gestalten
-permalink: /kreatives-gestalten/
+title: Mein Angebot
+permalink: /mein-angebot/
 ---
 
+Eine Betreuung ist ab 20h/Monat möglich.
+
+Meine Kernbetreuungszeiten:\
+Di-Fr 7h - 15h (und nach Vereinbarung)
+
+
+## Kreatives Gestalten
 Schon die Allerkleinsten lieben es mit Fingerfarben, Stiften, Straßenmalkreiden oder Knete zu experimentieren.
 
 
@@ -28,4 +35,26 @@ Schon die Allerkleinsten lieben es mit Fingerfarben, Stiften, Straßenmalkreiden
   <object data="https://lh3.googleusercontent.com/WQqBV0ZZYF0-SbN8cZaBa1Ag3-9uHNP9OsKKs7LExum7WLncBkZMJyEppyg1Qgj-3fjF-VgDiwX2-yO7x2UsWuFRWd4A7nvWi08UCYPneSpI5UFahNeaQmhX1qYVt4KSDwgvmVbtYBQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Vpl6OkVB5DNxmGDsEep96Ew291_gXCm5lxIRCf4Qj3a0zJ2FHVqUbXIx1Qx3Q7azUG7S6xAI8lzSl3eAyLjFAZop3No9oTRruhLtFKgGfiR3oaaf0BVTeaWcSJZWzINDrKzVoj3S0yo=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/D80tRAvVZNxOV9KqBigxxDzrsZPU9Iv2CM9-MtB9jcoOs2kkGWSg-nE_kIDDDAp3z7GwmJvm_jZHLIZmhv2jjzXwX9_yQHZi95Aaf5L0UvCGclmYbTiYhbpdhaQQOUJK9BDMkmE7D4o=w1920-h1080"></object>
+</div>
+
+
+
+## Verpflegung
+
+Ich achte auf möglichst saisonale und biologische Nahrungsmittel. Teilweise kommen die Zutaten wie Obst, Gemüse und Kräuter aus dem eigenen Garten. 
+
+In den Sommermonaten lieben es die Kinder die Früchte (Himbeeren, Brombeeren, Ribisel,...) direkt vom Strauch zu naschen.
+
+
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/h5h4ySQJhSk57opVA"
+  data-title="Verpflegung"
+  data-description="6 new items · Album by Annemarie Mauritz"
+  data-background-color="transparent">
+  <object data="https://lh3.googleusercontent.com/B8AzMHGyJmFjqi3e0jpibLStkRtEBNfsBXidso8Ou3XzM7NCM56QrPDK8wx6geVIBSH8Q3oarv_oOYvfmQTkG0dx86ArY9_Q-8lflpvK5AAXgvLMA9EaypQSw2rzflQ3vU93ZywZ2D0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/hNw7gF6QxfBvSKwXNsDrlChGzcm8Y23N-HKRhmBTtr5rjBNpf4oePvfk9FedF4iO9zyh2zfNKrMr3B6aDQIomUZBp2T3KHNoRnRSdAYrf8O3Y-tMmfZ-p9_62YJPjdLgmkPUa-pQ3PM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/WogqFDhhWLRWSOvUBDT1qIC2Di4ALkVrCHCics7IOGh5RK0hJ58vMMG8kWOPEQXqstdWua4CGhGSl84_7sIo3ZrxktZ-zCl-qJQWjTXASdhaLe1rM0BMykTKRqnmy8n-guhmnHOy7t4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/lf-Jtsv7LYKzCrPPJoEx7eK2cG4c2LVJ-rYZzufNpbSt82q63Mnis77wV5WOQGBRgcQqF0KBT-XHTxGNQIO7V9TFwo0wFjDCzhKdTfVTyACwfIi6hpkukIMF0hxfVOYLebYCdtoySwE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/iy9qUo4f3txXLqsF--GWUNFsvHd24fl21l13yJxB7lGlQQC_OkkHBD_n_p8EGJYmzM1j4YmjlamjSutrUnexa96Fbd9u99o43olUoL-6DF8HUEGr_9_BaO-khkM3woBAoW9p61tjGHE=w1920-h1080"></object>
 </div>

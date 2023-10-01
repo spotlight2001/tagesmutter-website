@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Kinderbetreuung
-email: 
+author: Annemarie Mauritz
+email: afriedreich@yahoo.de
 description: 
 lang: de
 # baseurl: "/tagesmutter-website" # the subpath of your site, e.g. /blog
