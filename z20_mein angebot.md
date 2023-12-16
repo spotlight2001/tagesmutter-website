@@ -4,10 +4,25 @@ title: Mein Angebot
 permalink: /mein-angebot/
 ---
 
-Eine Betreuung ist ab 20h/Monat möglich.
 
-Meine Kernbetreuungszeiten:\
-Di-Fr 7h - 15h (und nach Vereinbarung)
+
+
+
+## Tagesstruktur
+
+Ein strukturierter Tagesablauf mit wiederkehrenden Ritualen bietet den Kindern Sicherheit und und gibt ihnen den nötigen Halt. 
+
+7:00-9:00 Bring und Ankommenszeit\
+9:00-9:30 Vormittagsjause\
+9:30-11:30 Kreative Angebote (Singen, Malen, Spiele, Sinnesmaterial...), Garten, Spielplatz, Spaziergang...\
+11:30-12:30 Mittagessen \
+12:30-13:00 Abholzeit der Vormittagskinder, Geschichte vorlesen\
+13:00-14:00 Ruhe und Schlafenszeit\
+14:00-15:00 Freies Spiel und Abholzeit
+
+
+
+
 
 
 ## Kreatives Gestalten

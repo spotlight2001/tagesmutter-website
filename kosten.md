@@ -23,24 +23,20 @@ Eine Betreung ist ab 20h/Monat möglich. Betreuungstage müssen mindestens im Ze
 
 [^1]: Details zur Förderung [NÖ Tageselternbetreuungsbeitrag](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf)
 
-### Weitere Fördermöglichkeiten
-Neben dem NÖ Tageselterbetreuungsbeitrag gibt es noch folgende Fördermöglichkeiten:
+### Fördermöglichkeiten
 
-Es besteht die Möglichkeit beim Land NÖ um Kleinstkinder/Kinderbetreuungsförderung anzusuchen:
+Förderungen vom Land NÖ:
 
-[Förderung Kinderbetreuung Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/Foerd_Eltern_Tagesmuettervaeter.html)
+[NÖ Tageselternbetreuungsbeitrag](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf)
+
+ 
+[Kleinstkinder/Kinderbetreuungförderung Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/Foerd_Eltern_Tagesmuettervaeter.html)
 
 
 
 Für Kinder mit Hauptwohnsitz in Wien gilt die [Wiener Förderung](https://www.wien.gv.at/amtshelfer/kultur/bildung/bildungseinrichtungen/foerderung/ausserhalb-wiens.html).
 
-Das AMS fördert ebenfalls unter bestimmten Vorrausetzungen einen Kinderbetreuungsplatz, Details siehe hier:
-
-
-
-
-
-
+Förderung vom AMS: 
 
 [Kinderbetreuung Beihilfe & Zuschuss AMS](https://www.ams.at/arbeitsuchende/karenz-und-wiedereinstieg/so-unterstuetzen-wir-ihren-wiedereinstieg/kinderbetreuungs-beihilfe-)
 
