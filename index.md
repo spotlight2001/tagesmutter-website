@@ -24,9 +24,9 @@ Ich biete:
 * durch die kleine Gruppengröße stehen die Bedürfnisse der Kinder im Mittelpunkt
 * selbstgekochtes, vollwertiges Essen (eigener Gemüse und Obstgarten)
 * viel Platz im Haus und Garten zum Spielen, Forschen und Entdecken
-* Familiäre Atmosphäre (2 eigene Kinder, 2 Katzen)
+* familiäre Atmosphäre (2 eigene Kinder, 2 Katzen)
 * ein strukutierter Tagesablauf sowie Rituale, die den Kindern Sicherheit und Orientierung geben
-* Kreative Angebote und freies Gestalten (Malen, Basteln, Singen)
+* kreative Angebote und freies Gestalten (Malen, Basteln, Singen)
 * liebevoll aufbereitetes Sinnesmaterial nach Montessori
 * optimale Vorbereitung auf den Kindergarten
 * ganz viel Spaß

@@ -8,7 +8,7 @@ permalink: /kosten/
 
 |Zeitraum      |Kosten  ||
 | ----------- | ----------- |----|
-| 7:00-13:00      | 5€/h       |Für Kinder unter 3 Jahren besteht die Möglichkeit einer Förderung vom Land NÖ in der Zeit von 7:00-13:00, sodass der Betreuungsbeitrag der Eltern nur 1,25€/h [^1] in diesen Zeiten beträgt.
+| 7:00-13:00      | 5€/h       |Für Kinder unter 3 Jahren besteht die Möglichkeit einer  [Förderung vom Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf) in der Zeit von 7:00-13:00, sodass der Betreuungsbeitrag der Eltern nur 1,25€/h in diesen Zeiten beträgt.
 | 13:00-15:00  | 6€/h       |
 
 
@@ -17,9 +17,9 @@ permalink: /kosten/
 | ----------- | ----------- |
 | Essensbeitrag | 4€/Tag (Jause 1,50€ und Mittagessen 2,50€) |
 |Anmeldegebühr und Platzreservierung|einmalig 100€|
-| Pauschale für Nebenkosten (Verbrauchsmaterial & Administration) | 40€/Monat |
+| monatliche Pauschale für Nebenkosten (Verbrauchsmaterial & Administration) | 40€/Monat |
 
-Eine Betreung ist ab 20h/Monat möglich. Betreuungstage müssen mindestens im Zeitraum von 8:00-13:00 gebucht werden. 
+Eine Betreuung ist ab 20h/Monat möglich. Betreuungstage müssen mindestens im Zeitraum von 8:00-13:00 gebucht werden. 
 
 [^1]: Details zur Förderung [NÖ Tageselternbetreuungsbeitrag](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf)
 
