@@ -3,6 +3,20 @@ layout: page
 title: Mein Angebot
 permalink: /mein-angebot/
 ---
+## Konzept Tagesmutter
+Ich stehe voll und ganz hinter dem "Konzept Tagesmutter".  
+Besonders für kleine Kinder unter 3 Jahren bietet eine Betreuung bei einer Tagesmutter einige wesentliche Vorteile. Durch die **familienähnliche Atmosphäre** wird ein vertrautes Umfeld geschaffen, in der sich Kinder **sicher und geborgen** fühlen.  
+
+Im Vergleich zu einer Betreuung in einer Kinderkrippe ist die **Gruppengröße bei einer Tagesmutter wesentlich kleiner (max. 4 Kinder)**. Das bedeutet, dass jedes Kind **individuell betreut** werden kann. Ich habe **Zeit, auf die Bedürfnisse und Interessen jedes Kindes einzugehen**.  
+
+Ich bin als Tagesmutter eine vertraute **konstante Bezugsperson** für Ihr Kind (kein Wechsel der Betreuungsperson, wie in Institutionen).
+
+Im kleinen geschützen Rahmen lernt das Kind soziale Kompetenzen, die später auch in der Großgruppe wichtig sind. Eine Betreuung bei einer Tagemutter ist daher eine wunderbare **Vorbereitung auf den Kindergarten**.
+
+Bei einer Tagemutter ist eine **sanftere Eingewöhnung** möglich.  
+
+## Eingewöhnung 
+Die Eingewöhung dauert in der Regel **1-2 Monate** und richtet sich nach den **individuellen Bedürfnissen den Kindes**. Ich nehme mir Zeit, um eine vertrauensvolle Beziehung aufzubauen und Ihr Kind sanft in die Betreuung zu integrieren.
 
 
 
