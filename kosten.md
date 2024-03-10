@@ -25,23 +25,25 @@ Bei Kindern unter 3 Jahren sind mindestens zwei Betreuungstage pro Woche empfehl
 
 Es werden sämtliche vereinbarten Betreuungsstunden zur Bereitstellung des Betreuungsplatzes in Rechnung gestellt, unabhängig von den tasächlich konsumierten Stunden (Ausname: Krankheit oder Urlaub der Tagesmutter). 
 
-## Beispielrechnung
+## Beispiel zur Berechnung der monatlichen Kosten
 
-Die vorraussichtlichen **monatlichen Betreuungskosten für 4 Betreuungstage/Woche** von 8:00-13:00 betragen nach Abzug der Förderung Land NÖ **147,50€**.
+Die vorraussichtlichen **monatlichen Betreuungskosten für 4 Betreuungstage/Woche von Di-Fr in der Zeit von 8:00-13:00** betragen nach Abzug der Förderung Land NÖ **147,50€**. Der genaue Betrag hängt von der Anwesenheit des Kindes ab, denn das Land NÖ fördert nur tatsächlich konsumierte Stunden. Details siehe [Förderrichtlinien Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf).
+Die Tagesmutter stellt ihre Gesamtkosten am Monatsende den Eltern in Rechnung. Die Förderung vom Land NÖ wird als Gutschrift für die Abrechnung des Folgemonats an die Eltern zurückgegeben.
 
-4 Tage/Woche zu je 5 Std = 20 Wochenstunden  
-20 Wochenstunden x 4,3 (ein Monat hat durchschnittlich 4,3 Wochen) = 86 Stunden/Monat  
-86 Std x 5€ = 430€  
-plus monatliche Pauschale von 40€ = 470€  
-abzüglich Förderung Land NÖ für 86 Std = 322,50€ (= maximal erreichbare Förderung bei voller Anwesenheit des Kindes im förderbaren Zeitraum Di-Fr 8:00-13:00, da nur tatsächlich konsumierte Stunden vom Land NÖ gefördert werden. Details siehe [Förderrichtlinien](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf))
+| Berechnung monatlicher Kosten für 4 Tage/Woche 8:00-13:00  | Alter |
+|---|---|
+| Betreuungsbeitrag für 86 Std im Monat (20 Wochenstunden x 4,3 Wochen=86 Std) | 430€ |
+| monatliche Pauschale  |+40€  |
+| abzüglich Förderung vom Land NÖ | -322,50€|  
+| Summe (vorraussichtliche monatlicher Betreuungskosten nach Abzug der Förderung)| =**147,50€** |
 
-470€ - 322,50€ = 147,50€
 
-Hinzu kommt der Essensbeitrag von 4€ pro Tag, der nur bei Anwesenheit des Kindes verrrechnet wird.  
 
-Die Tagesmutter stellt ihre Gesamtkosten am Monatsende den Eltern in Rechnung und refundiert die Förderung, die sie vom Land NÖ erhält, an die Eltern als Gutschrift für das Folgemonat.
+Hinzu kommt der Essensbeitrag von 4€ pro Tag, der nur bei Anwesenheit des Kindes verrechnet wird.  
 
-# Tarife ohne Förderung vom Land NÖ  
+
+
+# Betreuungskosten ohne Förderung vom Land NÖ  
 6€ pro Betreuungsstunde  
 Die monatliche Pauschale entfällt bei dieser Option zur Gänze, da Nebenkosten bereits im Stundentarif enthalten sind und auch kein erhöhter Aufwand für die Förderabwicklung anfällt.  
 Diese Option ist interessant für Familien, die nicht unter die Förderrichtlinien fallen (beispielsweise ein Elternteil ist nicht berufstätig/in beruflicher Aus- und Weiterbildung, der Hauptwohnsitz befindet sich in Wien oder es wird bereits Förderung von anderen Stellen, wie AMS, für die Kinderbetreuung bezogen). Eine individuellere Vereinbarung hinsichtlich der Betreuungsstunden ist bei diesem Tarif in Absprache mit der Tagesmutter möglich.
@@ -49,17 +51,17 @@ Diese Option ist interessant für Familien, die nicht unter die Förderrichtlini
 
 ## Fördermöglichkeiten
 
-### Förderungen vom Land NÖ
+### Förderung vom Land NÖ
 
 NEU seit Herbst 2023: [NÖ Tageselternbetreuungsbeitrag](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf)  
 Diese Förderung kann gewährt werden, wenn beide Elternteile berufstätig sind oder sich in beruflicher Aus- und Weiterbildung befinden. Weitere Details zu Fördervorrausetzungen siehe Link!
 
 ### Förderung der Stadt Wien
 
-Für Kinder mit Hauptwohnsitz in Wien gilt die [Wiener Förderung](https://www.wien.gv.at/amtshelfer/kultur/bildung/bildungseinrichtungen/foerderung/ausserhalb-wiens.html). Die Stadt Wien fördert auch Betreuung bei einer Tagesmutter in NÖ ab einer Betreuung von 16 Wochenstunden. Einzige Vorrausetzung ist der Hauptwohnsitz in Wien. Genaue Details siehe Link!
+Für Kinder mit Hauptwohnsitz in Wien gilt die [Wiener Förderung](https://www.wien.gv.at/amtshelfer/kultur/bildung/bildungseinrichtungen/foerderung/ausserhalb-wiens.html). Die Stadt Wien fördert sehr attraktiv und noch dazu unkompliziert die Betreuung bei einer Tagesmutter in NÖ. 
 
 ### Förderung vom AMS
 
-[Kinderbetreuung Beihilfe & Zuschuss AMS](https://www.ams.at/arbeitsuchende/karenz-und-wiedereinstieg/so-unterstuetzen-wir-ihren-wiedereinstieg/kinderbetreuungs-beihilfe-)
+Das AMS fördert ebenfalls unter bestimmten Vorraussetzungen die Kinderbetreuung bei Tageseltern [Kinderbetreuung Beihilfe & Zuschuss AMS](https://www.ams.at/arbeitsuchende/karenz-und-wiedereinstieg/so-unterstuetzen-wir-ihren-wiedereinstieg/kinderbetreuungs-beihilfe-)
 
 [AMS-Kinderbetreuungsbeihilfe Info AK](https://www.arbeiterkammer.at/beratung/berufundfamilie/BeihilfenundFoerderung/AMS-Kinderbetreuungsbeihilfe.html)

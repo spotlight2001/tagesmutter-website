@@ -11,7 +11,7 @@ Im Vergleich zu einer Betreuung in einer Kinderkrippe ist die **Gruppengröße b
 
 Ich bin als Tagesmutter eine vertraute **konstante Bezugsperson** für Ihr Kind (kein Wechsel der Betreuungsperson, wie in Institutionen).
 
-Im kleinen geschützen Rahmen lernt das Kind soziale Kompetenzen, die später auch in der Großgruppe wichtig sind. Eine Betreuung bei einer Tagemutter ist daher eine wunderbare **Vorbereitung auf den Kindergarten**.
+Im kleinen geschützen Rahmen lernt das Kind soziale Kompetenzen, die später auch in der Großgruppe wichtig sind. Eine Betreuung bei einer Tagesmutter ist daher eine wunderbare **Vorbereitung auf den Kindergarten**.
 
 Bei einer Tagemutter ist eine **sanftere Eingewöhnung** möglich.  
 
@@ -24,7 +24,7 @@ Die Eingewöhung dauert in der Regel **1-2 Monate** und richtet sich nach den **
 
 ## Tagesstruktur
 
-Ein strukturierter Tagesablauf mit wiederkehrenden Ritualen bietet den Kindern Sicherheit und und gibt ihnen den nötigen Halt. 
+Ein strukturierter Tagesablauf mit wiederkehrenden Ritualen bietet den Kindern Sicherheit und gibt ihnen den nötigen Halt. 
 
 7:00-9:00 Bring und Ankommenszeit\
 9:00-9:30 Vormittagsjause\

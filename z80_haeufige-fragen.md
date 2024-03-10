@@ -14,3 +14,4 @@ permalink: /haeufige-fragen/
 
 Ja, eine Betreuung ist auch mit Hauptwohnsitz Wien möglich. Die Stadt Wien fördert auch Betreuung außerhalb Wiens mit einer sehr attraktiven [Förderung](https://www.wien.gv.at/amtshelfer/kultur/bildung/bildungseinrichtungen/foerderung/ausserhalb-wiens.html).
 
+
