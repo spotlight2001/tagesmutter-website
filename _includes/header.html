@@ -1,12 +1,17 @@
 <header class="site-header">
 
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/favicon/site.webmanifest">
+
     <div class="wrapper">
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
         
-        <img src="/assets/logo_rainbow.gif.png" width="150" height="150">
+        <img src="/assets/logo_rainbow.png" width="150" height="150">
       </a>
   
       {%- if titles_size > 0 -%}
