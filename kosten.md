@@ -30,7 +30,7 @@ Es werden sämtliche vereinbarten Betreuungsstunden zur Bereitstellung des Betre
 Die vorraussichtlichen **monatlichen Betreuungskosten für 4 Betreuungstage/Woche von Di-Fr in der Zeit von 8:00-13:00** betragen nach Abzug der Förderung Land NÖ **147,50€**. Der genaue Betrag hängt von der Anwesenheit des Kindes ab, denn das Land NÖ fördert nur tatsächlich konsumierte Stunden. Details siehe [Förderrichtlinien Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf).
 Die Tagesmutter stellt ihre Gesamtkosten am Monatsende den Eltern in Rechnung. Die Förderung vom Land NÖ wird als Gutschrift für die Abrechnung des Folgemonats an die Eltern zurückgegeben.
 
-| Berechnung monatlicher Kosten für 4 Tage/Woche 8:00-13:00  | Alter |
+| Berechnung monatlicher Kosten für 4 Tage/Woche 8:00-13:00  |  |
 |---|---|
 | Betreuungsbeitrag für 86 Std im Monat (20 Wochenstunden x 4,3 Wochen=86 Std) | 430€ |
 | monatliche Pauschale  |+40€  |
