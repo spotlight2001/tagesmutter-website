@@ -38,9 +38,7 @@ Die Tagesmutter stellt ihre Gesamtkosten am Monatsende den Eltern in Rechnung. D
 | Summe (vorraussichtliche monatlicher Betreuungskosten nach Abzug der Förderung)| =**147,50€** |
 
 
-
 Hinzu kommt der Essensbeitrag von 4€ pro Tag, der nur bei Anwesenheit des Kindes verrechnet wird.  
-
 
 
 # Betreuungskosten ohne Förderung vom Land NÖ  
