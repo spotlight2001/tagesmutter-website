@@ -39,12 +39,6 @@ Die Tagesmutter stellt ihre Gesamtkosten am Monatsende den Eltern in Rechnung. D
 
 
 Hinzu kommt der Essensbeitrag von 4€ pro Tag, der nur bei Anwesenheit des Kindes verrechnet wird.  
-
-
-# Betreuungskosten ohne Förderung vom Land NÖ  
-6€ pro Betreuungsstunde  
-Die monatliche Pauschale entfällt bei dieser Option zur Gänze, da Nebenkosten bereits im Stundentarif enthalten sind und auch kein erhöhter Aufwand für die Förderabwicklung anfällt.  
-Diese Option ist interessant für Familien, die nicht unter die Förderrichtlinien fallen (beispielsweise ein Elternteil ist nicht berufstätig/in beruflicher Aus- und Weiterbildung, der Hauptwohnsitz befindet sich in Wien oder es wird bereits Förderung von anderen Stellen, wie AMS, für die Kinderbetreuung bezogen). Eine individuellere Vereinbarung hinsichtlich der Betreuungsstunden ist bei diesem Tarif in Absprache mit der Tagesmutter möglich.
  
 
 ## Fördermöglichkeiten
