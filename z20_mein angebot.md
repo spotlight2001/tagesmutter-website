@@ -34,6 +34,20 @@ Ein strukturierter Tagesablauf mit wiederkehrenden Ritualen bietet den Kindern S
 13:00-14:00 Ruhe und Schlafenszeit\
 14:00-15:00 Freies Spiel und Abholzeit
 
+## Urlaubstage  
+Ich halte meine Betreuungseinrichtung **7 Wochen im Jahr** geschlossen.  
+2 Wochen in den Weihnachtsferien  
+3 Wochen Sommerferien  
+1 Woche Osterferien  
+1 Woche (verteilt auf Fenstertage und Herbstferien) 
+
+Die **nächsten Urlaubstermine** sind:  
+21.12.2024 bis 6.01.2025 (Weihnachtferien)  
+12.04. bis 21.04.2025 (Ostern)  
+29.05. bis 30.05.2025 (Chr.H.)  
+19.05. bis 20.6.2025 (Fronl.)  
+14.07. bis 01.08.2025 (Sommerpause)
+
 
 
 
@@ -61,7 +75,6 @@ Schon die Allerkleinsten lieben es mit Fingerfarben, Stiften, Straßenmalkreiden
   <object data="https://lh3.googleusercontent.com/A5CH45_zjlZAbcYREyF7zampTRu_De4MgBLdyeg-p0W_c6M5I1X2QuyyPXl8_k-0lYljcYDkYSU7HIFtWGzkbC9KyJPaQco-5jDxom1O5uOrB8TVVQ9DBQZrX8E7aKYu0Ek3-07vzkw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/y4ODXbIJtjd6dfqelRK6RwmzXjeZJbRdbdExitViRV4gLGfc2uvT06Zcc67-kzy2Yx1LR9zHh_iX3_DRCyTwUUkOkCoI1PGwxqAzHsXaTk2DFZP2ya6WQms0QCYzLiKoF7V_EVsb9zw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/KRd9cs_8qQAfMT6Ge7VruWqXXG8OV2r8fspDYx88K8EBLPge5iEfEdc4-S4QXTZLDeTg5D7b2nkOk_SuZY_NEbtnhmXjPhgJAJILTnLl5cZU2e_A6T0kqGcDUNhLn20tozov-mHAdKo=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/WQqBV0ZZYF0-SbN8cZaBa1Ag3-9uHNP9OsKKs7LExum7WLncBkZMJyEppyg1Qgj-3fjF-VgDiwX2-yO7x2UsWuFRWd4A7nvWi08UCYPneSpI5UFahNeaQmhX1qYVt4KSDwgvmVbtYBQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Vpl6OkVB5DNxmGDsEep96Ew291_gXCm5lxIRCf4Qj3a0zJ2FHVqUbXIx1Qx3Q7azUG7S6xAI8lzSl3eAyLjFAZop3No9oTRruhLtFKgGfiR3oaaf0BVTeaWcSJZWzINDrKzVoj3S0yo=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/D80tRAvVZNxOV9KqBigxxDzrsZPU9Iv2CM9-MtB9jcoOs2kkGWSg-nE_kIDDDAp3z7GwmJvm_jZHLIZmhv2jjzXwX9_yQHZi95Aaf5L0UvCGclmYbTiYhbpdhaQQOUJK9BDMkmE7D4o=w1920-h1080"></object>
 </div>

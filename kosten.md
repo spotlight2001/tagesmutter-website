@@ -4,11 +4,11 @@ title: Kosten
 permalink: /kosten/
 ---
 
-# Betreuungskosten mit Förderung vom Land NÖ
+# Betreuungskosten mit Förderung vom Land NÖ ab 01.01.2025
 
 |Zeitraum      |Kosten  ||
 | ----------- | ----------- |----|
-| 7:00-13:00      | 5€/h       |Für Kinder unter 3 Jahren besteht die Möglichkeit einer  [Förderung vom Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf) in der Zeit von 7:00-13:00, sodass der Betreuungsbeitrag der Eltern nur 1,25€/h in diesen Zeiten beträgt.
+| 7:00-13:00      | 6€/h       |Für Kinder unter 3 Jahren besteht die Möglichkeit einer  [Förderung vom Land NÖ](https://noe.gv.at/noe/Kinderbetreuung/RL_NOeTageselternBetreuBeitrag_Okt24_k1.pdf) in der Zeit von 7:00-13:00, sodass der Betreuungsbeitrag der Eltern nur 1,50€/h in diesen Zeiten beträgt.
 | 13:00-15:00  | 6€/h       |
 
 
@@ -17,7 +17,7 @@ permalink: /kosten/
 | ----------- | ----------- |
 | Essensbeitrag | 4€/Tag (Jause 1,50€ und Mittagessen 2,50€) |
 |Anmeldegebühr und Platzreservierung|einmalig 100€|
-| monatliche Pauschale für Nebenkosten (Verbrauchsmaterial & Administration) | 40€/Monat |
+| monatliche Pauschale für Nebenkosten (Verbrauchsmaterial & Administration) | 30€/Monat |
 
 Eine Betreuung ist ab 20h/Monat möglich. Betreuungstage müssen mindestens im Zeitraum von 8:00-13:00 gebucht werden.
 
@@ -27,15 +27,15 @@ Es werden sämtliche vereinbarten Betreuungsstunden zur Bereitstellung des Betre
 
 ## Beispiel zur Berechnung der monatlichen Kosten
 
-Die vorraussichtlichen **monatlichen Betreuungskosten für 4 Betreuungstage/Woche von Di-Fr in der Zeit von 8:00-13:00** betragen nach Abzug der Förderung Land NÖ **147,50€**. Der genaue Betrag hängt von der Anwesenheit des Kindes ab, denn das Land NÖ fördert nur tatsächlich konsumierte Stunden. Details siehe [Förderrichtlinien Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf).
+Die vorraussichtlichen **monatlichen Betreuungskosten für 20 Std/Woche von Di-Fr in der Zeit von 8:00-13:00** betragen nach Abzug der Förderung Land NÖ **149€**. Der genaue Betrag hängt von der Anwesenheit des Kindes ab, denn das Land NÖ fördert nur tatsächlich konsumierte Stunden. Details siehe [Förderrichtlinien Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf).
 Die Tagesmutter stellt ihre Gesamtkosten am Monatsende den Eltern in Rechnung. Die Förderung vom Land NÖ wird als Gutschrift für die Abrechnung des Folgemonats an die Eltern zurückgegeben.
 
-| Berechnung monatlicher Kosten für 4 Tage/Woche 8:00-13:00  |  |
+| Berechnung monatlicher Kosten für 20 Std/Woche 8:00-13:00  |  |
 |---|---|
-| Betreuungsbeitrag für 86 Std im Monat (20 Wochenstunden x 4,3 Wochen=86 Std) | 430€ |
-| monatliche Pauschale  |+40€  |
-| abzüglich Förderung vom Land NÖ | -322,50€|  
-| Summe (vorraussichtliche monatlicher Betreuungskosten nach Abzug der Förderung)| =**147,50€** |
+| Betreuungsbeitrag für 86 Std im Monat (20 Wochenstunden x 4,3 Wochen=86 Std) | 516€ |
+| monatliche Pauschale  |+20€  |
+| abzüglich Förderung vom Land NÖ | -387€|  
+| Summe (vorraussichtliche monatlicher Betreuungskosten nach Abzug der Förderung)| =**149€** |
 
 
 Hinzu kommt der Essensbeitrag von 4€ pro Tag, der nur bei Anwesenheit des Kindes verrechnet wird.  
@@ -45,7 +45,7 @@ Hinzu kommt der Essensbeitrag von 4€ pro Tag, der nur bei Anwesenheit des Kind
 
 ### Förderung vom Land NÖ
 
-NEU seit Herbst 2023: [NÖ Tageselternbetreuungsbeitrag](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf)  
+NEU seit Herbst 2023: [NÖ Tageselternbetreuungsbeitrag](https://noe.gv.at/noe/Kinderbetreuung/RL_NOeTageselternBetreuBeitrag_Okt24_k1.pdf)  
 Diese Förderung kann gewährt werden, wenn beide Elternteile berufstätig sind oder sich in beruflicher Aus- und Weiterbildung befinden. Weitere Details zu Fördervorrausetzungen siehe Link!
 
 ### Förderung der Stadt Wien
