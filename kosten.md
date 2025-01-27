@@ -27,7 +27,7 @@ Es werden sämtliche vereinbarten Betreuungsstunden zur Bereitstellung des Betre
 
 ## Beispiel zur Berechnung der monatlichen Kosten
 
-Die vorraussichtlichen **monatlichen Betreuungskosten für 20 Std/Woche von Di-Fr in der Zeit von 8:00-13:00** betragen nach Abzug der Förderung Land NÖ **149€**. Der genaue Betrag hängt von der Anwesenheit des Kindes ab, denn das Land NÖ fördert nur tatsächlich konsumierte Stunden. Details siehe [Förderrichtlinien Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf).
+Die vorraussichtlichen **monatlichen Betreuungskosten für 20 Std/Woche von Di-Fr in der Zeit von 8:00-13:00** betragen nach Abzug der Förderung Land NÖ **159€**. Der genaue Betrag hängt von der Anwesenheit des Kindes ab, denn das Land NÖ fördert nur tatsächlich konsumierte Stunden. Details siehe [Förderrichtlinien Land NÖ](https://www.noe.gv.at/noe/Kinderbetreuung/RL_NOe_Tageselternbetreuungsbeitrag.pdf).
 Die Tagesmutter stellt ihre Gesamtkosten am Monatsende den Eltern in Rechnung. Die Förderung vom Land NÖ wird als Gutschrift für die Abrechnung des Folgemonats an die Eltern zurückgegeben.
 
 | Berechnung monatlicher Kosten für 20 Std/Woche 8:00-13:00  |  |
