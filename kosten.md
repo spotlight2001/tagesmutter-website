@@ -33,7 +33,7 @@ Die Tagesmutter stellt ihre Gesamtkosten am Monatsende den Eltern in Rechnung. D
 | Berechnung monatlicher Kosten für 20 Std/Woche 8:00-13:00  |  |
 |---|---|
 | Betreuungsbeitrag für 86 Std im Monat (20 Wochenstunden x 4,3 Wochen=86 Std) | 516€ |
-| monatliche Pauschale  |+30€  |
+| monatliche Pauschale  |+40€  |
 | abzüglich Förderung vom Land NÖ | -387€|  
 | Summe (vorraussichtliche monatlicher Betreuungskosten nach Abzug der Förderung)| =**159€** |
 
