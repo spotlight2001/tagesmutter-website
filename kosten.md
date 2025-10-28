@@ -17,7 +17,7 @@ permalink: /kosten/
 | ----------- | ----------- |
 | Essensbeitrag | 4€/Tag (Jause 1,50€ und Mittagessen 2,50€) |
 |Anmeldegebühr und Platzreservierung|einmalig 100€|
-| monatliche Pauschale für Nebenkosten (Verbrauchsmaterial & Administration) | 30€/Monat |
+| monatliche Pauschale für Nebenkosten (Verbrauchsmaterial & Administration) | 40€/Monat |
 
 Eine Betreuung ist ab 20h/Monat möglich. Betreuungstage müssen mindestens im Zeitraum von 8:00-13:00 gebucht werden.
 
